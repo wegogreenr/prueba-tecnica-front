@@ -28,7 +28,7 @@ Desarrollar una aplicación simple en Next.js que permita listar los personajes 
 
 - Crea un formulario simple que permita al usuario ingresar el nombre de un nuevo personaje.
 - Una vez el usuario envíe el formulario, añade este nuevo personaje a la lista existente.
-- El formulario debe ser generado con react-hook-form y validado con yup
+- El formulario debe ser generado con react-hook-form y validado con yup.
 
 ### 5. Estilo y Presentación:
 
