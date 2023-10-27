@@ -32,8 +32,7 @@ Desarrollar una aplicación simple en Next.js que permita listar los personajes 
 
 ### 5. Estilo y Presentación:
 
-- Aunque la funcionalidad es más importante, se valora un diseño básico y limpio.
-- Asegúrate de que la aplicación sea responsiva y tenga una buena usabilidad.
+- Aunque la funcionalidad es más importante, se valora la utilizacion de HTML semantico
 
 ### 6. Bonificación (opcional pero valioso):
 
