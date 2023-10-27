@@ -20,11 +20,11 @@ Desarrollar una aplicación simple en Next.js que permita listar los personajes 
 - Utiliza la API de Rick y Morty para obtener la lista de personajes.
 - Muestra la lista de personajes en el componente provisto para la lista.
 
-### 3. Desarrollo del Componente de Lista (`NombreComponenteLista`):
+### 3. Desarrollo del Componente de Lista (`CharactersList`):
 
 - Dentro del componente de lista, muestra los nombres de los personajes obtenidos desde la API.
 
-### 4. Desarrollo del Componente de Formulario (`NombreComponenteFormulario`):
+### 4. Desarrollo del Componente de Formulario (`Form`):
 
 - Crea un formulario simple que permita al usuario ingresar el nombre de un nuevo personaje.
 - Una vez el usuario envíe el formulario, añade este nuevo personaje a la lista existente.
