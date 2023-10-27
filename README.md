@@ -23,12 +23,12 @@ Desarrollar una aplicación simple en Next.js que permita listar los personajes 
 ### 3. Desarrollo del Componente de Lista (`NombreComponenteLista`):
 
 - Dentro del componente de lista, muestra los nombres de los personajes obtenidos desde la API.
-- Agrega un botón o alguna interacción que permita cargar más personajes si la API lo soporta (paginación).
 
 ### 4. Desarrollo del Componente de Formulario (`NombreComponenteFormulario`):
 
 - Crea un formulario simple que permita al usuario ingresar el nombre de un nuevo personaje.
 - Una vez el usuario envíe el formulario, añade este nuevo personaje a la lista existente.
+- El formulario debe ser generado con react-hook-form y validado con yup
 
 ### 5. Estilo y Presentación:
 
@@ -39,8 +39,3 @@ Desarrollar una aplicación simple en Next.js que permita listar los personajes 
 
 - Añade alguna característica extra que consideres podría enriquecer la aplicación.
 - Implementa manejo de errores básico, en caso de que la API no esté disponible o surja algún problema.
-
-### 7. Entrega:
-
-- Una vez finalizada la prueba, crea un Pull Request al repositorio original o comparte el enlace de tu repositorio con la solución implementada.
-- En la descripción, comenta sobre las decisiones de diseño que tomaste y cualquier otra información que consideres relevante.
