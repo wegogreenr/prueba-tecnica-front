@@ -1,4 +1,4 @@
-# Prueba Técnica para Desarrollador de Next.js (Nivel Jr/SSr)
+# Prueba Técnica para Desarrollador de Next.js
 
 ## Objetivo:
 
