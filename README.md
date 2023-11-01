@@ -1,4 +1,4 @@
-# Prueba Técnica para Desarrollador de Next.js (Nivel Jr/SSr)
+# Prueba Técnica para Desarrollador de Next.js
 
 ## Objetivo:
 
@@ -28,12 +28,11 @@ Desarrollar una aplicación simple en Next.js que permita listar los personajes 
 
 - Crea un formulario simple que permita al usuario ingresar el nombre de un nuevo personaje.
 - Una vez el usuario envíe el formulario, añade este nuevo personaje a la lista existente.
-- El formulario debe ser generado con react-hook-form y validado con yup
+- El formulario debe ser generado con react-hook-form y validado con yup.
 
 ### 5. Estilo y Presentación:
 
-- Aunque la funcionalidad es más importante, se valora un diseño básico y limpio.
-- Asegúrate de que la aplicación sea responsiva y tenga una buena usabilidad.
+- Aunque la funcionalidad es más importante, se valora la utilizacion de HTML semantico
 
 ### 6. Bonificación (opcional pero valioso):
 
